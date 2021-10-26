@@ -37,8 +37,8 @@ First I am going to perform my analysis with a dataset of a sinusoidal function,
 
 ## Files:
 
--   [Part1](): Contains activities: 1, 2, 3, 4 and 6.
--   [Part2](): Contains activities: 5 and 7.
+-   [Part1](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10/blob/main/Part1.ipynb): Contains activities: 1, 2, 3, 4 and 6.
+-   [Part2](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10/blob/main/Part2.ipynb): Contains activities: 5 and 7.
 
 ### **DISCLAIMER:** All comments are in spanish in the notebook files
 
