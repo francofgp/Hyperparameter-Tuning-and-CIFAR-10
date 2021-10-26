@@ -26,6 +26,8 @@ In addition, what one should take away after reading this paper is the following
 
 </div>
 
+
+
 # What am I going to do in this work?
 
 I decided to do this work in an "activity" format, as I think it better reflects the "Why? I do such and such a thing.
@@ -37,6 +39,8 @@ First I am going to perform my analysis with a dataset of a sinusoidal function,
 
 -   [Part1](): Contains activities: 1, 2, 3, 4 and 6.
 -   [Part2](): Contains activities: 5 and 7.
+
+### **DISCLAIMER:** All comments are in spanish in the notebook files
 
 ### Activities:
 
