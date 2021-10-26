@@ -44,19 +44,19 @@ First I am going to perform my analysis with a dataset of a sinusoidal function,
 
 ### Activities:
 
-1. Evaluate the use of regularization. Evaluate the use of cost function L1. Do a grid search of hyper-parameters (`learning_rate`, `weight_decay`, `epochs`). [Go to Activity]()
+1. Evaluate the use of regularization. Evaluate the use of cost function L1. Do a grid search of hyper-parameters (`learning_rate`, `weight_decay`, `epochs`). [Go to Activity](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10/blob/main/Part1.ipynb)
 
-2. Implement and train a two-layer feedforward network model like the second one in the figure. Experiment with different numbers of nodes in the hidden layer. Repeat the learning rate search from the previous point. [Go to Activity]()
+2. Implement and train a two-layer feedforward network model like the second one in the figure. Experiment with different numbers of nodes in the hidden layer. Repeat the learning rate search from the previous point. [Go to Activity](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10/blob/main/Part1.ipynb)
 
-3. With this neural network, experiment with different activation functions, such as hyperbolic tangent (Tanh) or ReLU (search for them, for example, in the Pytorch documentation). [Go to Activity]()
+3. With this neural network, experiment with different activation functions, such as hyperbolic tangent (Tanh) or ReLU (search for them, for example, in the Pytorch documentation). [Go to Activity](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10/blob/main/Part1.ipynb)
 
 4. Evaluate how the convergence of this neural network changes with different values of batch size and learning rate. [Go to Activity]()
 
-5. Starting from the version with mini-batches, modify the training loop so that, without modifying the iteration over the DataLoader, it implements standard gradient descent (_vanilla_) (update using the gradient over the cumulative cost function, after traversing the whole dataset). [Go to Activity]()
+5. Starting from the version with mini-batches, modify the training loop so that, without modifying the iteration over the DataLoader, it implements standard gradient descent (_vanilla_) (update using the gradient over the cumulative cost function, after traversing the whole dataset). [Go to Activity](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10/blob/main/Part2.ipynb)
 
-6. Seek to improve as much as possible the hit rate for all CIFAR-10 classes. Ex: data augmentation, different hyper-parameters, different architecture, different optimizer, or whatever you can think of. [Go to Activity]()
+6. Seek to improve as much as possible the hit rate for all CIFAR-10 classes. Ex: data augmentation, different hyper-parameters, different architecture, different optimizer, or whatever you can think of. [Go to Activity](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10/blob/main/Part1.ipynb)
 
-7. Use a pre-trained network and complete some transfer learning task(s) for the example domain (classify ants and bees), or for some image domain of your interest [Go to Activity]()
+7. Use a pre-trained network and complete some transfer learning task(s) for the example domain (classify ants and bees), or for some image domain of your interest [Go to Activity](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10/blob/main/Part2.ipynb)
 
 ## [Execute in your editor](#Execute-in-your-editor)
 
